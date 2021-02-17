@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+<html/>
+ <body/> 
+    <h1 style="color:blue;font-family:comic-sans;">Hello! Welcome to the future!</h1>
 
 You can use the [editor on GitHub](https://github.com/DJ-Cod/hill/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
