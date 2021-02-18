@@ -1,4 +1,6 @@
-<html/>
- <body/> 
+<html>
+ <body> 
     <p style="color:blue">Hello! Welcome to the future!</p>
     <p style="font-family:syntax">What do you want to do here? It's up to you!</p>
+ </body>
+</html>
