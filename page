@@ -3,8 +3,7 @@
     <p style="color:blue">Hello! Welcome to the future!</p>
     <p style="font-family:syntax">What do you want to do here? It's up to you!</p>
     <a href="(https://open.spotify.com/playlist/66bsruGfSRZ58gNTSuPKpS)">
-    <p> First, listen to this link to start your journey! </p>
-    
-    
+    <p> First, listen to the song on this link to start your journey! </p>
+    <img src(https://cdn.akamai.steamstatic.com/steam/apps/504230/capsule_616x353.jpg?t=1580863858)>
  </body>
 </html>
