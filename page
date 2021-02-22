@@ -2,15 +2,15 @@
  <body> 
     <p style="color:blue">Hello! Welcome to the future!</p>
     <p style="font-family:syntax">What do you want to do here? It's up to you!</p>
-    <a href="(https://open.spotify.com/playlist/66bsruGfSRZ58gNTSuPKpS)">
+    <a href="(https://open.spotify.com/playlist/66bsruGfSRZ58gNTSuPKpS)">clickable text</a>
     <p> First, listen to the song on this link to start your journey! </p>
     <img src(https://cdn.akamai.steamstatic.com/steam/apps/504230/capsule_616x353.jpg?t=1580863858)>
     <h1> SO, you want to go on a journey into the magical cave? </h1>
-    <img src(https://i1.wp.com/handluggageonly.co.uk/wp-content/uploads/2014/12/The-Reed-Flute-Cave-China-s.jpg?fit=1400%2C1037&ssl=1)>
+    <img src="https://i1.wp.com/handluggageonly.co.uk/wp-content/uploads/2014/12/The-Reed-Flute-Cave-China-s.jpg?fit=1400%2C1037&ssl=1"/>
     <h2> Ah, I see... well if you want to join us you must be prepared and use your tools to their fullest advantadge. </h2>
     <h2> To proceed, you must choose... you may take the rope, the pickaxe, or the plunger.
-    <img src(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWloTzDHBFuFEyipvwl4nGM3DjnNjRfcfh3g&usqp=CAU)>
-    <img src(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb0mmivFo86xQSNup_vo9mKDSQGRXzLLQrHg&usqp=CAU)>
-    <img src(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg03JTXoxwsNqKbqSm4IO2kjd0Ciw07uThHA&usqp=CAU)>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWloTzDHBFuFEyipvwl4nGM3DjnNjRfcfh3g&usqp=CAU"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb0mmivFo86xQSNup_vo9mKDSQGRXzLLQrHg&usqp=CAU"/>
+    <img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg03JTXoxwsNqKbqSm4IO2kjd0Ciw07uThHA&usqp=CAU"/>
  </body>
 </html>
