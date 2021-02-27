@@ -16,3 +16,9 @@
     <img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg03JTXoxwsNqKbqSm4IO2kjd0Ciw07uThHA&usqp=CAU"/>
  </body>
 </html>
+<style>
+h1{
+color: green;
+font-style: italian
+}
+</style>
